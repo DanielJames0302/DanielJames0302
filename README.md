@@ -16,8 +16,11 @@ backend engineering, AI engineering, distributed systems, and cloud infrastructu
 
 ## Tech
 
-`Python` `Go` `TypeScript` `PyTorch` `Next.js` `FastAPI`
-`AWS` `Docker` `PostgreSQL` `Redis` `GraphQL` `WebSockets`
+- **Languages:** `Python` `Go` `TypeScript` `SQL`
+- **AI/ML:** `PyTorch` `TensorFlow` `RAG` `MCP`
+- **Frontend:** `React` `Next.js` `Tailwind CSS`
+- **Backend:** `FastAPI` `REST APIs` `GraphQL` `WebSockets` `PostgreSQL` `Redis`
+- **Cloud & DevOps:** `AWS` `Docker` `Nginx` `Linux` `GitHub Actions`
 
 ## Connect
 
