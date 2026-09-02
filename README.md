@@ -3,31 +3,16 @@
 Computer Science undergraduate at the National University of Singapore focused on
 backend engineering, AI engineering, distributed systems, and cloud infrastructure.
 
-Currently building:
-
-- Agentic AI workflows and RAG systems
-- Scalable backend and distributed systems
-- Reliable cloud infrastructure with AWS
-
 ## Featured projects
 
-### Comstruct C-Materials Platform
+- [**Chinese-English Neural Machine Translation**](https://github.com/DanielJames0302/chinese-english-neural-machine-translation)  
+  A Python-based neural machine translation project for translating Chinese to English.
 
-AI-powered procure-to-pay platform built during the Think Codex Hackathon.
+- [**Comstruct Challenge — Think Codex Hackathon**](https://github.com/DanielJames0302/Comstruct-Challenge-Think-Codex-Hackathon)  
+  An AI-powered procure-to-pay platform combining RAG, microservices, and real-time workflows.
 
-- Top 5 finish
-- Cross-lingual RAG with pgvector and trigram search
-- Six-service microservices architecture
-- Flutter, React, PostgreSQL, Redis, and WebSockets
-
-### PeerPrep
-
-Real-time peer programming platform for collaborative technical practice.
-
-- Matching with Redis sorted sets and Google Pub/Sub
-- Collaborative editor built with Yjs and Monaco
-- Sandboxed code execution across 13 languages
-- Designed for 100+ concurrent sessions
+- [**PeerPrep**](https://github.com/DanielJames0302/PeerPrep)  
+  A real-time peer programming platform with matchmaking, collaborative coding, and sandboxed execution.
 
 ## Tech
 
