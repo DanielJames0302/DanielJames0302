@@ -1,6 +1,6 @@
 # Hi, I'm Tram Minh Man
 
-Computer Science undergraduate at the National University of Singapore focused on
+Final-year Computer Science undergraduate at the National University of Singapore focused on
 backend engineering, AI engineering, distributed systems, and cloud infrastructure.
 
 ## Featured projects
